@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\bin\Debug\Tsundupalli_Assignment3.exe.config
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\bin\Debug\Tsundupalli_Assignment3.exe
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\bin\Debug\Tsundupalli_Assignment3.pdb
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\obj\Debug\Tsundupalli_Assignment3.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\obj\Debug\Tsundupalli_Assignment3.Properties.Resources.resources
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\obj\Debug\Tsundupalli_Assignment3.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\obj\Debug\Tsundupalli_Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\obj\Debug\Tsundupalli_Assignment3.exe
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\obj\Debug\Tsundupalli_Assignment3.pdb
+C:\Users\DELL\source\repos\Tsundupalli_Assignment3\Tsundupalli_Assignment3\obj\Debug\Tsundupalli_Assign3.Form1.resources
